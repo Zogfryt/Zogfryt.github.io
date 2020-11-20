@@ -1,36 +1,21 @@
-## Welcome to GitHub Pages
+### Shortly about me:
 
-You can use the [editor on GitHub](https://github.com/Zogfryt/Zogfryt.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a poor little student who is living STILL with his parents with a hope of achieving somothing great in the future.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Of course the main problem is passing the studies but i think that with hard work and a bit of luck i can manage this :cold_sweat:
 
-### Markdown
+### Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For now my skillset isn't satysfying, but hey I'm a student i'm still learning :neutral_face:
 
-```markdown
-Syntax highlighted code block
+I can program a bit in C++ and i'm learning C now
 
-# Header 1
-## Header 2
-### Header 3
+Math has been always my domain but studies showed that it's not entirely true :sweat_smile:
 
-- Bulleted
-- List
+And....**Somehow** i passed FCE in English, but shh..
 
-1. Numbered
-2. List
+### Project
 
-**Bold** and _Italic_ and `Code` text
+Currently i'm making a project with my friends so if you have some spare time go and
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zogfryt/Zogfryt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+check [it](https://github.com/AGH-Narzedzia-Informatyczne/Przelicznik_Wartosci_-Logicznych) out!
