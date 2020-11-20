@@ -1,13 +1,13 @@
 ### Shortly about me:
 
 I'm a poor little student who is living STILL with his parents with a hope of achieving something great in the future.
-Of course the main problem is passing the studies but i think that with hard work and a bit of luck i can manage this :cold_sweat:
+Of course the main problem is passing the studies but i think that with hard work and a bit of luck i can manage this B)
 
 ### Skills
 
-* For now my skillset isn't satysfying, but hey I'm a student i'm still learning :neutral_face:
+* For now my skillset isn't satysfying, but hey I'm a student i'm still learning 
 * I can program a bit in C++ and i'm learning C now
-* Math has been always my domain but studies showed that it's not entirely true :sweat_smile:
+* Math has been always my domain but studies showed that it's not entirely true 
 * And....**Somehow** i passed FCE in English, but shh..
 
 ### Project
